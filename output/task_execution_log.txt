@@ -1,0 +1,30 @@
+EduRTOS Task Execution Output             
+========================================= 
+                                          
+Periodic task executed. Counter: 1        
+UART TX: Periodic task tick: 1            
+CPU intensive task started. Iteration: 1  
+CPU intensive task completed.             
+Recoverable task running. Attempt: 1      
+Recoverable task completed successfully.  
+Cooperative task starting...              
+Cooperative task - work chunk 1 of 5      
+Cooperative task yielding...              
+                                          
+-------------------------------------------------- 
+Current task states:                      
+Time | P C R O | Tasks                  
+-----|---------|---------               
+now  | . . . . | P:Periodic(50), C:CPUIntensive(30), R:Recoverable(70), O:Cooperative(40) 
+CPU Utilization: 45.6%                   
+-------------------------------------------------- 
+                                          
+Periodic task executed. Counter: 2        
+UART TX: Periodic task tick: 2            
+                                          
+Injecting fault: DEADLOCK into task: CPUIntensive 
+Task CPUIntensive suspended to simulate deadlock 
+                                          
+Recoverable task running. Attempt: 3      
+Recoverable task throwing exception!      
+Attempting recovery for task: Recoverable 

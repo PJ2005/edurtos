@@ -1,0 +1,15 @@
+==================================
+EduRTOS Fault Injection Results     
+================================== 
+                                    
+Injecting fault: STACK_CORRUPTION into task: Periodic 
+No checkpoint available for task: Periodic 
+                                    
+Injecting fault: DEADLOCK into task: CPUIntensive 
+Task CPUIntensive suspended to simulate deadlock 
+                                    
+Injecting fault: MEMORY_LEAK into task: Recoverable 
+Leaked 328 bytes in task: Recoverable 
+                                    
+Attempting recovery for task: Recoverable 
+Task Recoverable restarted after fault 

@@ -1,0 +1,21 @@
+==================================
+EduRTOS Deadline Tracking Results   
+================================== 
+                                    
+Task: Periodic                      
+Period: 100ms / Deadline: 90ms      
+Execution Count: 45                 
+Deadline Misses: 3                  
+Average Execution Time: 20.34ms     
+                                    
+Task: CPUIntensive                  
+Period: 200ms / Deadline: 100ms     
+Execution Count: 22                 
+Deadline Misses: 5                  
+Average Execution Time: 45.67ms     
+                                    
+Task: Recoverable                   
+Period: 300ms / Deadline: 50ms      
+Execution Count: 15                 
+Deadline Misses: 1                  
+Average Execution Time: 10.12ms     

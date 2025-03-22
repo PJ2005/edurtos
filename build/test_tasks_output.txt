@@ -1,0 +1,28 @@
+==================================================
+EduRTOS Test Output Log
+Started at: 2025-03-22 19:22:17
+==================================================
+
+EduRTOS Test Tasks Application
+------------------------------
+
+Creating test tasks...
+Starting fault injector...
+Starting kernel...
+Running test tasks for demonstration (30 seconds)...
+--------------------------------------------------
+Current task states:
+Time | A B C | Tasks
+-----|-------|---------
+now  | R . . | A:CPUBoundTask(70), B:IOBoundTask(50), C:MixedTask(30)
+CPU Utilization: 0.0%
+--------------------------------------------------
+--------------------------------------------------
+Current task states:
+Time | A B C | Tasks
+-----|-------|---------
+now  | . R . | A:CPUBoundTask(87), B:IOBoundTask(50), C:MixedTask(31)
+CPU Utilization: 27.3%
+--------------------------------------------------
+--------------------------------------------------
+Current task states:

@@ -1,0 +1,9 @@
+C:/Users/prath/OneDrive/Documents/College/Year_2/SEM_4/OS/edurtos/build/CMakeFiles/edurtos_kernel.dir
+C:/Users/prath/OneDrive/Documents/College/Year_2/SEM_4/OS/edurtos/build/CMakeFiles/edurtos_example.dir
+C:/Users/prath/OneDrive/Documents/College/Year_2/SEM_4/OS/edurtos/build/CMakeFiles/edurtos_tests.dir
+C:/Users/prath/OneDrive/Documents/College/Year_2/SEM_4/OS/edurtos/build/CMakeFiles/edit_cache.dir
+C:/Users/prath/OneDrive/Documents/College/Year_2/SEM_4/OS/edurtos/build/CMakeFiles/rebuild_cache.dir
+C:/Users/prath/OneDrive/Documents/College/Year_2/SEM_4/OS/edurtos/build/CMakeFiles/list_install_components.dir
+C:/Users/prath/OneDrive/Documents/College/Year_2/SEM_4/OS/edurtos/build/CMakeFiles/install.dir
+C:/Users/prath/OneDrive/Documents/College/Year_2/SEM_4/OS/edurtos/build/CMakeFiles/install/local.dir
+C:/Users/prath/OneDrive/Documents/College/Year_2/SEM_4/OS/edurtos/build/CMakeFiles/install/strip.dir

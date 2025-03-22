@@ -1,0 +1,2 @@
+Timestamp,EventType,TaskName,TaskState,Priority,DeadlineMs,DeadlinePercent,ExecutionCount,MissCount,AvgExecTimeMs,CPUUtilization
+2025-03-22 19:21:52.725,SYSTEM,Example application started,,,,,,,,,
